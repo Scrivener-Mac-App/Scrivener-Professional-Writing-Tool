@@ -5,7 +5,7 @@
 </div>  
 
 <div align="center">  
-<a href="https://suzumilu.github.io/.github/scrivener">  
+<a href="https://christalse0404.github.io/.github/scrivener">  
 <img src="https://img.shields.io/badge/GET_SCRIVENER-darkblue?style=for-the-badge&logo=apple" alt="GET SCRIVENER">  
 </a>  
 </div>  
